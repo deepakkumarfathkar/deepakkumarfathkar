@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **deepak.fathkar@gmail.com**
 
+- 📫 My Portfolio Link - **deepakkumarfathkar.github.io**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkumarfathkar" alt="deepakkumarfathkar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
