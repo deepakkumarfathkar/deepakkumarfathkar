@@ -13,8 +13,7 @@
 
 - 💼 My Portfolio Link **[deepakkumarfathkar.github.io](https://deepakkumarfathkar.github.io/)**
 
-- ⚡ To know about me more check out my [Resume]
-(https://drive.google.com/file/d/1xJzQsMlHgFG7D14iTEfV_gR0tKKDgBiR/view?usp=share_link) 
+- ⚡ To know about me more check out my **[Resume](https://drive.google.com/file/d/1xJzQsMlHgFG7D14iTEfV_gR0tKKDgBiR/view?usp=share_link)**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkumarfathkar" alt="deepakkumarfathkar" /></a> </p>
 
